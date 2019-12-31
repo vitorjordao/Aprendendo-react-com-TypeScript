@@ -9,4 +9,6 @@ sudo yarn add eslint-import-resolver-typescript -D
 sudo yarn add react-redux redux
 sudo yarn add -D @types/react-redux
 sudo yarn add typesafe-actions
+sudo yarn add axios redux-saga
+sudo yarn add -D @types/redux-saga
 ```
